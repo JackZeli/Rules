@@ -1,1 +1,2 @@
 # Rules
+This is a clone of the mobile game "Rules!". I programmed this in the summer of 2015 at Carnegie Mellon University, as a part of their Pre-College AP/EA program. It was my first, large-scale project that I created with very minimal assistance from teachers, teachers' assistants, or other students. Though there are some rough aspects to the overall structure of the program, I have another year of programming experience under my belt since then. 
